@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* reading
+* writing
+* baking
+
+1. Go to site
+2. Finish Tutorial
+3. Get Job
